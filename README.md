@@ -42,7 +42,7 @@ Se você está sendo sofrendo algum tipo de assédio, percebeu que alguém está
 
 **Contato:**
 - gdg.salvador@gmail.com
-- @gdgssa
+- [@gdgssa](twitter.com/gdgssa)
 
 Apesar de esperarmos que nunca precisemos invocar esse código de conduta, acreditamos que ter esse documento leva todos a uma reflexão sobre como suas ações e palavras afetam toda a comunidade, assim como indivíduos da comunidade.
 
